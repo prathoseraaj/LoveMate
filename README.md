@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LoveMate
 
-## Getting Started
+> _Looking for love? Well, this app might help you – but just to be clear, it's here for **you**, not for, you know... "me". I'm already in a committed relationship with sarcasm and caffeine. So, let's keep things professional, shall we?_
 
-First, run the development server:
+## What is LoveMate?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**LoveMate** is your virtual companion for love and relationship advice. Ask it anything, and it will respond with (hopefully) sweet, romantic, and supportive messages. No emojis here—because we're keeping it subtle, just like that "friend" who says they're not interested but keeps liking all your posts.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Ask questions about love, relationships, or why your plants keep dying (wait, that's a different app).
+- Powered by [Google Generative AI](https://ai.google.dev/).
+- Sarcasm not included, but highly recommended (as you can see).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+_If you fall in love with this app, just remember: it's here for you. I'm just the messenger... and definitely not available for dates._
