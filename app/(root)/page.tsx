@@ -14,7 +14,7 @@ const Page = () => {
     setIsLoading(true);
 
     try {
-      const result = await axios.post('/api/lovechat', { message });
+      const result = await axios.post('/api', { message });
       setResponse(result.data.response);
     } catch (error) {
       setResponse("Love is complicated... can you try again? ❤️");
