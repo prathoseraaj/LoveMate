@@ -12,6 +12,10 @@
 - Sarcasm not included, but highly recommended (as you can see).
 - Built with Next.js and Axios for easy deployment—none of that nasty FastAPI or Node stuff.
 
+## Future Implementation
+
+- Proper message window with old messages
+
 ---
 
 _If you fall in love with this app, just remember: it's here for you. I'm just the messenger... and definitely not available for dates._
