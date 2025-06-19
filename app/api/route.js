@@ -25,6 +25,7 @@ User message: ${message}
 
     return Response.json({ response: text });
   } catch (error) {
+    console.log(error)
     return Response.json(
       { response: "My heart did not litsen properly! could you try again?" },
       { status: 500 }
