@@ -9,8 +9,8 @@
 ## Features
 
 - Ask questions about love, relationships, or why your plants keep dying (wait, that's a different app).
-- Powered by [Google Generative AI](https://ai.google.dev/).
 - Sarcasm not included, but highly recommended (as you can see).
+- Built with Next.js and Axios for easy deployment—none of that nasty FastAPI or Node stuff.
 
 ---
 
